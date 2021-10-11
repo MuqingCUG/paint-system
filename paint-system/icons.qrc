@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/tools/icons">
+        <file>painter system/duobianxing.png</file>
+        <file>painter system/juxing.png</file>
+        <file>painter system/radio-on.png</file>
+        <file>painter system/tianchongquyu.png</file>
+        <file>painter system/tuoyuan.png</file>
+        <file>painter system/zhixian.png</file>
+        <file>painter system/dakaiwenjian.png</file>
+        <file>painter system/wenjianjia.png</file>
+        <file>painter system/refresh-off-4.png</file>
+        <file>painter system/bangzhu.png</file>
+        <file>painter system/pingyi.png</file>
+        <file>painter system/duoduanxian.png</file>
+    </qresource>
+</RCC>
